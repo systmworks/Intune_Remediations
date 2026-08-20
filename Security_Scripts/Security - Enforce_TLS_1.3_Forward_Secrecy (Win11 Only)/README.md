@@ -1,4 +1,5 @@
 <p align="center"><a href="https://buymeacoffee.com/systmworks"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a></p>
+
 # Enforce TLS 1.3 and Forward Secrecy (Windows 11 Only)
 
 Intune Proactive Remediation scripts in this folder. **Windows 11 only.** Run as **SYSTEM** for detect/remediate; rollback is manual admin use.
@@ -24,3 +25,4 @@ Restores machine-wide TLS/SCHANNEL registry settings from a `.reg` backup create
 A reboot is required for SCHANNEL changes to fully take effect after import.
 
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
+

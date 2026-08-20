@@ -1,4 +1,5 @@
 <p align="center"><a href="https://buymeacoffee.com/systmworks"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a></p>
+
 # Fix Unquoted Paths in Registry
 
 Intune Proactive Remediation scripts in this folder. Run as **SYSTEM**.
@@ -16,3 +17,4 @@ Finds the same unquoted `ImagePath` and `UninstallString` values and wraps the e
 Run after the detect script flags non-compliance to close unquoted service path findings from security scanners.
 
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
+

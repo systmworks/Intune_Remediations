@@ -1,5 +1,6 @@
 <p align="center"><a href="https://buymeacoffee.com/systmworks"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a></p>
-# Intune_Remediations
+
+# Intune Remediations
 
 A collection of Intune Remediation scripts that I have found particularly useful.
 

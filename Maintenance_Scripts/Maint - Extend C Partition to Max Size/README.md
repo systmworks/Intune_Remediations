@@ -1,4 +1,5 @@
 <p align="center"><a href="https://buymeacoffee.com/systmworks"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a></p>
+
 # Extend C Partition to Max Size
 
 Intune Proactive Remediation scripts in this folder. Run as **SYSTEM**.
@@ -14,3 +15,4 @@ Extends the C: partition into unallocated space on the same disk. If a small par
 Includes try/catch and skip logic when no action is needed. A reboot is not typically required for partition extension.
 
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
+

@@ -1,4 +1,5 @@
 <p align="center"><a href="https://buymeacoffee.com/systmworks"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"></a></p>
+
 # Remove Outdated .NET Runtimes
 
 Intune Proactive Remediation scripts in this folder. Run as **SYSTEM**.
@@ -14,3 +15,4 @@ Removes EOL or outdated .NET Runtime and Windows Desktop Runtime in a single coo
 Designed to reduce vulnerability scanner noise from stale runtime versions while preserving what applications still need.
 
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
+
