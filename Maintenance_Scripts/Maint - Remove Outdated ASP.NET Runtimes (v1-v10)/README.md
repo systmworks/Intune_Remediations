@@ -14,5 +14,7 @@ Uninstalls EOL ASP.NET Core runtimes via `msiexec` using registered MSI product 
 
 Processes all x64 and x86 registry entries in a single run. Does not force-delete folders left after a successful msiexec uninstall in the same pass.
 
+---
+
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
 

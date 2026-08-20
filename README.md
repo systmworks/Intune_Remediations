@@ -29,4 +29,7 @@ Each script folder contains a `README.md` with detect/remediate details. Deploy 
 | [Security - Fix_Unquoted_Paths in Registry](Security_Scripts/Security%20-%20Fix_Unquoted_Paths%20in%20Registry/) | Quotes unquoted ImagePath and UninstallString values in Services and Uninstall registry keys. |
 | [Security - Speculative Execution Dynamic Mitigation](Security_Scripts/Security%20-%20Speculative%20Execution%20Dynamic%20Mitigation/) | Sets or removes FeatureSettingsOverride registry values to match hardware-optimal mitigation levels. |
 
+---
+
 **Sharing & responsibility** - Built for the community, shared with good intentions. Use at your own risk. The author accepts no responsibility for any outcomes resulting from the use of these files. Always verify registry paths and values, and test in a safe environment first. If you find an issue or have a suggestion, contributions are welcome.
+
